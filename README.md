@@ -5,7 +5,10 @@
 > 📌 This repository contains the **prediction module (Dense Neural Network model)** developed by the Machine Learning team. The frontend application and cloud deployment are hosted in separate repositories.
 
 ---
+## Summary
+Gen Z often struggles with managing finances due to limited tools, leading to impulsive spending. To address this, we developed Budgy, a user-friendly app that tracks expenses and provides personalized recommendations, helping users make smarter financial decisions and stay on track with their goals.
 
+**BUDGY - Saving today for a brighter tomorrow.**
 ## Team Information
 
 **Team ID:** C242-PS508  
