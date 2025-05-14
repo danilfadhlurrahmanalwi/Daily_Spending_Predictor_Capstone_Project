@@ -36,3 +36,5 @@ The prediction model is built using a **Dense Neural Network (DNN)**, trained to
 The model is optimized and deployed to **Google Cloud Platform (GCP)** as a RESTful API service.
 
 ---
+## Documentation
+<img src="dailyspending.png" width="500"/>
