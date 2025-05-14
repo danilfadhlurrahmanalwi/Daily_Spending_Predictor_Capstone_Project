@@ -6,7 +6,7 @@
 
 ---
 
-## 👨‍👩‍👧 Team Information
+## Team Information
 
 **Team ID:** C242-PS508  
 **Capstone Team – Daily Spending Predictor**
@@ -22,7 +22,7 @@
 
 ---
 
-## 🧠 About the Model
+## About the Model
 
 The prediction model is built using a **Dense Neural Network (DNN)**, trained to estimate daily spending limits based on the following inputs:
 
