@@ -33,7 +33,7 @@ The prediction model is built using a **Dense Neural Network (DNN)**, trained to
 
 - Monthly income
 - Monthly savings target
-- (Optionally) historical spending ratio
+- Historical spending ratio
 
 The model is optimized and deployed to **Google Cloud Platform (GCP)** as a RESTful API service.
 
