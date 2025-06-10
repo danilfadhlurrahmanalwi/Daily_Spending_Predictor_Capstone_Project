@@ -1,4 +1,5 @@
-# 💸 Daily Spending Predictor – Machine Learning Module
+# 💸 BUDGY APPLICATION
+## Daily Spending Predictor – Machine Learning Module
 
 **Daily Spending Predictor** is a machine learning module that estimates users' daily spending limits based on their monthly income and savings goals. This project is part of the **Bangkit Academy 2024 Bacth 2 Capstone Project**, a program supported by Google, Traveloka, and Gojek.
 
